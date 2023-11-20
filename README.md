@@ -12,4 +12,4 @@
  Y muchas otras cosas mas 
  Continuo estudiando para asi poder algun dia poder saludar al mejor maestro Freddy Vega.
   
-  NOTA FINAL ESTE readme.md es para una parctica nadamas.diseñado como un ejemplo y mejor vean el curso de github en PLatzi.🐱‍🚀🐱‍👓🐱‍🐉🐱‍💻🐱‍🏍
+  NOTA FINAL ESTE readme.md es para una practica nadamas.diseñado como un ejemplo y mejor vean el curso de github en PLatzi.🐱‍🚀🐱‍👓🐱‍🐉🐱‍💻🐱‍🏍
