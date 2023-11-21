@@ -9,6 +9,8 @@
 5.Las creacion de ramas y la manipulacion de las mismas 
 6.Los merger
 
+**CREADO POR EL INCREIBLE PLATZI TEAM
+
  Y muchas otras cosas mas 
  Continuo estudiando para asi poder algun dia poder saludar al mejor maestro Freddy Vega.
   
